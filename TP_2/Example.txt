@@ -1,0 +1,5 @@
+ptr ptr.
+e ptr.
+ptr e.
+ptr ptr ptr.
+o ptr.

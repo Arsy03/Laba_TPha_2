@@ -1,0 +1,4 @@
+"E:\Programs\CLion 2020.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - NMake Makefiles" E:\Workspace\Clion_Projects\TP_2
+-- Configuring done
+-- Generating done
+-- Build files have been written to: E:/Workspace/Clion_Projects/TP_2/cmake-build-debug

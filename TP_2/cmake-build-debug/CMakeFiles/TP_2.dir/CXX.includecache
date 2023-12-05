@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/Workspace/Clion_Projects/TP_2/Menu.cpp
+Menu.h
+E:/Workspace/Clion_Projects/TP_2/Menu.h
+string
+-
+iostream
+-
+fstream
+-
+cstring
+-
+
+E:/Workspace/Clion_Projects/TP_2/Menu.h
+Prices.h
+E:/Workspace/Clion_Projects/TP_2/Prices.h
+
+E:/Workspace/Clion_Projects/TP_2/Price.h
+string
+-
+
+E:/Workspace/Clion_Projects/TP_2/Prices.h
+Price.h
+E:/Workspace/Clion_Projects/TP_2/Price.h
+
+E:/Workspace/Clion_Projects/TP_2/main.cpp
+Menu.h
+E:/Workspace/Clion_Projects/TP_2/Menu.h
+
